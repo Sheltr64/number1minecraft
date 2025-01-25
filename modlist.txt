@@ -1,27 +1,39 @@
 3d-Skin-Layers [1.7.4] by tr7zw
 AppleSkin [3.0.6+mc1.21.3] by squeek502
+Better Mount HUD [1.2.5] by Lortseam
 BetterF3 [13.0.0] by cominixo, TreyRuffy
 Capes [1.5.4+1.21.4] by Cael
 Cloth Config v17 [17.0.144] by shedaniel
 Continuity [3.0.0+1.21.4] by PepperCode1
+Cubes Without Borders [3.0.0+mc1.21.3] by Kir_Antipov
+Debugify [1.21.4+1.1] by isXander
 Dynamic FPS [3.7.7] by juliand665, LostLuma
+Enhanced Block Entities [0.11.3+1.21.4] by FoundationGames
 Entity Model Features [2.4.1] by Traben
 Entity Texture Features [6.2.10] by Traben
 EntityCulling [1.7.2] by tr7zw
 Fabric API [0.115.0+1.21.4] by FabricMC
 Fabric Language Kotlin [1.13.0+kotlin.2.1.0] by FabricMC
+Fabrishot [1.14.3] by ramidzkh
 FerriteCore [7.1.1] by malte0811
+Forge Config API Port [21.4.1] by Fuzs
 ImmediatelyFast [1.3.3+1.21.4] by RK_01
 Iris [1.8.5+mc1.21.4] by coderbot, IMS212, Justsnoopy30, FoundationGames
 LambDynamicLights [4.0.1+1.21.4] by LambdAurora
 Lithium [0.14.7+mc1.21.4] by JellySquid, 2No2Name
 Mod Menu [13.0.1] by Prospector, haykam821, TerraformersMC
+Model Gap Fix [1.21.3-1.10] by MehVahdJukaar
+ModernFix [5.20.1+mc1.21.4] by embeddedt
+More Chat History [1.3.1] by JackFred
 More Culling [1.2.3] by FX - PR0CESS, 1Foxy2
 No Chat Reports [1.21.4-v2.11.0] by Aizistral
 NotEnoughAnimations [1.9.1] by tr7zw
+OptiGUI [2.3.0-beta.7+1.21.2] by opekope2
 Placeholder API [2.5.1+1.21.3] by Patbox
 Reese's Sodium Options [1.8.3+mc1.21.4] by FlashyReese
+Remove Reloading Screen [5.1.0+mc1.21.4-fabric] by dima_dencep
 Shulker Box Tooltip [5.2.2+1.21.4] by MisterPeModder
 Sodium [0.6.6+mc1.21.4] by JellySquid (jellysquid3)
 Sodium Extra [0.6.1+mc1.21.4] by FlashyReese
 Sound Physics Remastered [1.21.4-1.4.8] by Sonic Ether, vlad2305m, Max Henkel, Saint
+YetAnotherConfigLib [3.6.2+1.21.4-fabric] by isXander
