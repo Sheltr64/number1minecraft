@@ -179,14 +179,14 @@
 			"lines": {
 				"light": true,
 				"biome": true,
-				"rotation": true,
+				"rotation": false,
 				"facing": true,
 				"slime_chunk": true,
 				"local_difficulty": true,
 				"day_ticks": true,
 				"days_played": true,
 				"dimension": true,
-				"highest_block": true,
+				"highest_block": false,
 				"highest_block_server": false,
 				"light_server": false
 			},
