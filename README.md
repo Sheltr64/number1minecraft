@@ -1,5 +1,4 @@
-# number1minecraft
-# A barebones modpack meant for a vanilla server with some friends.
+# A barebones vanilla-like experience.
 The purpose of this modpack is to make an experience akin to that you would find on a Minecraft YouTuber's client without the need to hunt down all the mods yourself
 
 ### _no frills, just minecraft_
@@ -36,6 +35,8 @@ The purpose of this modpack is to make an experience akin to that you would find
 - Shulker Box Tooltip
 - More Chat History
 - Fabrishot
+- Controlify
+- Controlling
 
 ## Contains the following fixes:
 - OptiGUI
@@ -51,5 +52,6 @@ The purpose of this modpack is to make an experience akin to that you would find
 - Placeholder API
 - YetAnotherConfigLib
 - Forge Config API Port
+- Searchables
 
 This modpack is provided "as is" and I won't provide support for any issues you may or may not encounter
