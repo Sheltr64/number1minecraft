@@ -15,8 +15,8 @@ prioritizeChunkUpdates:0
 fullscreen:false
 gamma:0.5
 graphicsMode:1
-guiScale:3
-maxFps:160
+guiScale:0
+maxFps:260
 inactivityFpsLimit:"afk"
 mipmapLevels:4
 narrator:0
@@ -51,8 +51,8 @@ damageTiltStrength:1.0
 highContrast:false
 highContrastBlockOutline:false
 narratorHotkey:true
-resourcePacks:["fabric"]
-incompatibleResourcePacks:[]
+resourcePacks:["vanilla","fabric","continuity:glass_pane_culling_fix","continuity:default"]
+incompatibleResourcePacks:["appleskin","controlling","modernfix","searchables","yet_another_config_lib_v3"]
 lastServer:
 lang:en_us
 chatVisibility:0
@@ -86,6 +86,7 @@ showAutosaveIndicator:true
 allowServerListing:true
 onlyShowSecureChat:false
 panoramaScrollSpeed:1.0
+debugifyTelemetry:0
 telemetryOptInExtra:false
 onboardAccessibility:false
 menuBackgroundBlurriness:5
@@ -125,14 +126,16 @@ key_key.hotbar.8:key.keyboard.8
 key_key.hotbar.9:key.keyboard.9
 key_key.dynamic_fps.toggle_forced:key.keyboard.unknown
 key_key.dynamic_fps.toggle_disabled:key.keyboard.unknown
+key_key.fabrishot.screenshot:key.keyboard.f9
 key_key.entityculling.toggle:key.keyboard.unknown
 key_key.modmenu.open_menu:key.keyboard.unknown
+key_key.optigui.inspect:key.keyboard.f12
 key_iris.keybind.reload:key.keyboard.r
 key_iris.keybind.toggleShaders:key.keyboard.k
 key_iris.keybind.shaderPackSelection:key.keyboard.o
 key_iris.keybind.wireframe:key.keyboard.unknown
 soundCategory_master:1.0
-soundCategory_music:1.0
+soundCategory_music:0.7570422535211268
 soundCategory_record:1.0
 soundCategory_weather:1.0
 soundCategory_block:1.0
